@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -fpermissive -fgnu-tm -g   CMakeFiles/vEB_v2.dir/main.cpp.o  -o vEB_v2 
